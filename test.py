@@ -12,3 +12,4 @@ Yolda eski bir arkadaşını gördü.Arkadaşıyla kahve içip sohbet etti.Sonra
 Yıldızlar parlıyordu ve {karakter} huzur doluydu."""
 
 print (hikaye_metni)
+print
