@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Kullanıcıdan alınan ismin, şehrin ve mesleğin karakter sayısının ekrana yazdıran bir program yazınız.
 print(len(input("Lutfen adınızı giriniz:")))
 print(len(input("Lutfen yaşadığınız şehri giriniz:")))
 print(len(input("Lutfen mesleğinizi giriniz:")))
+=======
+
+>>>>>>> 5d2d9a36a7bf27ca6b13b35a1a9f6935569bfe17
