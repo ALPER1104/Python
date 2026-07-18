@@ -1,4 +1,5 @@
 # Değişken alıştırması
+"""
 ondalikli_sayi=10.934
 print(type(ondalikli_sayi))
 
@@ -23,6 +24,7 @@ if karakter_sayisi<12:
 
 else:
     print("isminizin toplam karakter sayisi gerkli şartı sağlamaktadır diğer bilgilerinizi girmeye devam edebilirsiniz")
-
-
-
+"""
+print("yaptığınız spor dalı ve girdinin veri tipi:", (spor_dali := input("yaptığınız spor dalı:")), type(spor_dali))
+print("spora başladığınız yıl ve girdinin veri tipi:", (yil := input ("spora başladığınız yılı giriniz:")), type (yil))
+print("spora başladığınınz şehir ve girdinin veri tipi", (sehir := input("spora başladığınınz şehir:")),type (sehir))
